@@ -2,7 +2,7 @@
 
 ## add to all_for_one
 
-### what is the effect of space or no printable characters on unique ids across multiple programs?
+### what is the effect of space or non printable characters on unique ids across multiple programs?
 
 - [Ability to DOS any organization's SSO and open up the door to account takeovers](https://hackerone.com/reports/976603)
 
@@ -26,3 +26,8 @@
 ### access control vulnerabilities never get old
 
 - [Unauthenticated users can access all food.grammarly.io user's data](https://hackerone.com/reports/745495)
+
+### dependency confusion attacks: there should be more out there, Alex Birsan's research can't be all there is to it
+
+- [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
+- [RCE via npm misconfig -- installing internal libraries from the public registry](https://hackerone.com/reports/925585)
